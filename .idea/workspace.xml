@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="012953fe-0b9a-4534-b78a-4cdf70dfdd94" name="Default Changelist" comment="">
+    <list default="true" id="012953fe-0b9a-4534-b78a-4cdf70dfdd94" name="Default Changelist" comment="Added AWS files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoProject/settings.py" afterDir="false" />
     </list>
@@ -40,11 +40,34 @@
       <workItem from="1620243250021" duration="709000" />
       <workItem from="1620243977272" duration="47000" />
       <workItem from="1620244035965" duration="3000" />
-      <workItem from="1620244614221" duration="4067000" />
+      <workItem from="1620244614221" duration="4927000" />
     </task>
+    <task id="LOCAL-00001" summary="Added AWS files">
+      <created>1620249417653</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620249417654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added AWS files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added AWS files" />
   </component>
 </project>
